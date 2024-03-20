@@ -38,9 +38,50 @@ To utilize Zendog-Eve, follow these steps:
 4. Tap 'Create Speech' to create the audio output.
 5. Upon generating the audio, use the controls to play it back or select 'Download MP3' to save the file.
 
-# Demo
+# Code.
 
-![Open-Audio TTS Demo](public/demo.png)
+Here is the original code that i used in the developement of Zendog-eve :
+'''
+const fetch = require('node-fetch');
+const fs = require('fs');
+const path = require('path');
+
+const api_key = "YOUR_API_KEY_HERE"                                          //api key
+
+const baseURL = "https://api.openai.com/v1/audio/speech";                   // base url ( notice that "create" is not at the end of the path , the /create is added as part of the api request.
+
+const speechFilePath = path.join(__dirname, './output/speech2.mp3');      //output file path.
+
+async function main() {
+    try {
+        const response = await fetch(baseURL, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${api_key}`,
+                'Accept-Encoding': 'identity'
+            },
+            body: JSON.stringify({
+                model: "tts-1",                                                       // the open ai model used.
+                voice: "fable",                                                 // the open ai voice selected. (fable is an English accent that sounds a bit like Harry Potter).
+                prompt: "Turn text into audio mp3 file.",
+                input: "This is the input text for speech generation."           // this is the text input field , the text in this field is transformed into an mp3.
+            })                                                                   // A txt input area is required by the UI for the user to input txt by typing or pasting.   
+        });
+
+        const buffer = await response.buffer();
+        fs.writeFileSync(speechFilePath, buffer);
+
+        console.log('Speech file saved successfully. Your mp3 is in the output folder. Have a great day!');
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
+
+main();
+'''
+
+
 
 ## Voices.
 
