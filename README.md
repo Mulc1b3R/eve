@@ -36,11 +36,11 @@ Install the project locally,`vs-code` `node.js` follow these steps:
 
 To utilize Zendog-Eve, follow these steps:
 
-1. Input your OpenAI API key in the designated field.
+1. Input your OpenAI `API key` in the designated field.
 2. Enter or paste the text you want to convert into the 'Input Text' section.
 3. Customize the voice and adjust the speed to your preferences.
 4. Tap 'Create Speech' to create the audio output.
-5. Upon generating the audio, use the controls to play it back or select 'Download MP3' to save the file.
+5. Upon generating the audio, use the controls to play it back or select `Download MP3` to save the file.
 
 # Code.
 
