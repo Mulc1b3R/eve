@@ -1,7 +1,10 @@
 {
   "name": "open-audio",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.3.0",
+  "private": false,
+  "author": "mojo;psico communications,<disobay@proton.me>",
+  "description": "text to mp3 via openai-whisper api",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
