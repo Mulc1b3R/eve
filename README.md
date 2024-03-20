@@ -26,7 +26,7 @@ Eve is an Electronic voice emulator.
 
 Install the project locally,(vs-code,node.js) follow these steps:
 
-1. Clone the repository to your local machine.( https://github.com/Mulc1b3R/eve.git).
+1. Clone the repository to your local machine. `https://github.com/Mulc1b3R/eve.git`
 2. Navigate to the project directory.         `cd C:/PATH/TO/FOLDER/`
 3. Install dependencies with `npm install`.
 4. Start the development server with `npm run dev`.
