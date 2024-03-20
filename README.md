@@ -1,6 +1,6 @@
 ![zendog-eve TTS OG Image](public/zendog-eve.png)
 
-Check out the live website: [OpenAudio.ai](https://openaudio.ai)
+Check out the live website: [Zendog-eve](https://eve-red.vercel.app/)
 
 
 # Zendog Eve.
