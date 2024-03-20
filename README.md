@@ -1,4 +1,4 @@
-![Open-Audio TTS OG Image](public/og-image.png)
+![zendog-eve TTS OG Image](public/zendog-eve.png)
 
 Check out the live website: [OpenAudio.ai](https://openaudio.ai)
 
