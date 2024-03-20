@@ -42,14 +42,30 @@ To utilize Zendog-Eve, follow these steps:
 
 ![Open-Audio TTS Demo](public/demo.png)
 
+## Voices.
+
+As the documentation lacks specific descriptions for each voice, I consulted ChatGPT, via Zendog-UI, to provide informed assessments based on their names:
+
+- Alloy (Female): A versatile voice potentially appropriate for technical or instructional content like tutorials, educational material, or any material necessitating clarity and precision.
+
+- Echo (Male): Suited for storytelling, audiobooks, or content requiring a dramatic or narrative tone.
+
+- Fable (Male): Well-suited for children's stories, fantasy content, or any narrative demanding a playful or imaginative flair.
+
+- Onyx (Male): Recommended for reading serious literature, delivering news content, or any material needing a serious or formal delivery.
+
+- Nova (Female): Ideal for advertisements, motivational content, or materials requiring a positive and enthusiastic tone.
+
+- Shimmer (Female): Appropriate for lifestyle content, podcasts, or any content necessitating an engaging, friendly, and welcoming delivery.
+
 ## Contributing
 
 Credits:mojo,zen,mulciber,Justmalhar.
 Contributions are welcome! If you have a suggestion or an issue, please use the [issues](#) page to let me know.
 
-## License
+## License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License.
 
 ## Acknowledgments
 
