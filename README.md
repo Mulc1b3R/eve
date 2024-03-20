@@ -11,12 +11,12 @@ Eve is an Electronic voice emulator.
 
 ## Features
 
-- **Text-to-Speech**: Convert any text into speech with high-quality voices powered by OpenAI's TTS models.
-- **Customizable Voices**: Choose from a variety of voices to find the one that best suits your needs.
-- **Adjustable Speed**: Control the speed of the speech to match your preferred listening pace.
-- **BYO**: Bring your Own (BYO) API keys, no data is stored on server side.
-- **Downloadable Audio**: Easily download the generated speech as an MP3 file directly from the browser.
-- **User-Friendly Interface**: Built with responsiveness in mind, offering a comfortable experience across different devices.
+-# Convert text into speech using premium voices from OpenAI's cutting-edge TTS models.
+-# Access a range of customizable voices to discover the perfect fit for your requirements.
+-# Seamlessly adjust the speech speed to align with your preferred listening pace.
+-# Maintain data privacy by providing your own API keys—no information is retained on the server.
+-# Instantly download your converted speech as an MP3 file directly from your browser.
+-# Enjoy a user-friendly interface designed for optimal performance on various devices, ensuring a comfortable experience.
 
 ## Installation
 
