@@ -44,6 +44,7 @@ To utilize Zendog-Eve, follow these steps:
 
 ## Contributing
 
+Credits:mojo,zen,mulciber,Justmalhar.
 Contributions are welcome! If you have a suggestion or an issue, please use the [issues](#) page to let me know.
 
 ## License
