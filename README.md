@@ -7,7 +7,7 @@ Check out the live website: [Zendog-eve](https://eve-red.vercel.app/)
 
 Zendog Eve is a web app enabling users to convert text into natural-sounding speech. 
 
-Powered by OpenAI's text-to-speech model, (tts-1), the app has an intuitive user interface built with Chakra UI, providing a seamless experience for generating and downloading speech audio files:
+Powered by OpenAI's text-to-speech model, `tts-1`, the app has an intuitive user interface built with Chakra UI, providing a seamless experience for generating and downloading speech audio files:
 
 .mp3
 
@@ -89,7 +89,7 @@ main();
 
 ## Voices.
 
-As the documentation lacks specific descriptions for each voice, I consulted ChatGPT, via <a href="https://zendog.vercel.app/">Zendog-UI</a>, to provide informed assessments based on their names:
+As the documentation lacks specific descriptions for each voice, I consulted ChatGPT, via <a href="https://zendog.vercel.app/">Zendog-UI</a>, to provide informed assessments based on their speech:
 
 - Alloy: A versatile voice potentially appropriate for technical or instructional content like tutorials, educational material, or any material necessitating clarity and precision.
 
