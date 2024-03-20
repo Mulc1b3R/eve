@@ -20,23 +20,23 @@ Eve is an Electronic voice emulator.
 
 ## Installation
 
-To set up the project locally, follow these steps:
+Install the project locally,(vs-code,node.js) follow these steps:
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
+1. Clone the repository to your local machine.( https://github.com/Mulc1b3R/eve.git).
+2. Navigate to the project directory.         (cd C:/PATH/TO/FOLDER/)
 3. Install dependencies with `npm install`.
 4. Start the development server with `npm run dev`.
-5. Open `http://localhost:3000` to view it in the browser.
+5. Open `http://localhost:3000` to view it in the browser. (firefox,brave,chrome).
 
 ## Usage
 
-To use Open-Audio TTS, simply:
+To utilize Zendog-Eve, follow these steps:
 
-1. Enter your OpenAI API key in the provided field.
-2. Type or paste the text you wish to convert into the 'Input Text' field.
-3. Select the voice and adjust the speed as desired.
-4. Click on 'Create Speech' to generate the audio.
-5. Once the audio is generated, use the controls to play it or click 'Download MP3' to save it.
+1. Input your OpenAI API key in the designated field.
+2. Enter or paste the text you want to convert into the 'Input Text' section.
+3. Customize the voice and adjust the speed to your preferences.
+4. Tap 'Create Speech' to create the audio output.
+5. Upon generating the audio, use the controls to play it back or select 'Download MP3' to save the file.
 
 # Demo
 
