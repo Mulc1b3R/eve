@@ -118,6 +118,7 @@ This project is licensed under the Apache 2.0 License.
 - Chakra UI for the beautiful component library.
 - <a target="_blank" href="https://icons8.com/icon/PgPOu9C2G4Dq/speech-to-text">Speech To Text</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 - Credits:mojo, zen, mulciber, Justmalhar.
+- Read the Whisper whitepaper (pdf) <a href="https://cdn.openai.com/papers/whisper.pdf">Whisper</a>   
 
 ## Deploy on Vercel
 
