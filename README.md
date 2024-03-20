@@ -85,7 +85,7 @@ main();
 
 ## Voices.
 
-As the documentation lacks specific descriptions for each voice, I consulted ChatGPT, via Zendog-UI, to provide informed assessments based on their names:
+As the documentation lacks specific descriptions for each voice, I consulted ChatGPT, via <a href="https://zendog.vercel.app/">Zendog-UI</a>, to provide informed assessments based on their names:
 
 - Alloy (Female): A versatile voice potentially appropriate for technical or instructional content like tutorials, educational material, or any material necessitating clarity and precision.
 
