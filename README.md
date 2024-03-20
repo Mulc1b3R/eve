@@ -7,7 +7,7 @@ Check out the live website: [Zendog-eve](https://eve-red.vercel.app/)
 
 Zendog Eve is a web app enabling users to convert text into natural-sounding speech. 
 
-Powered by OpenAI's text-to-speech model, `tts-1`, the app has an intuitive user interface built with Chakra UI, providing a seamless experience for generating and downloading speech audio files:
+Powered by OpenAI's text-to-speech model, `tts-1`, the app has an intuitive user interface built with `Chakra UI`, providing a seamless experience for generating and downloading speech audio files:
 
  `.mp3`
 
