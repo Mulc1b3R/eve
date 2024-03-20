@@ -91,17 +91,18 @@ main();
 
 As the documentation lacks specific descriptions for each voice, I consulted ChatGPT, via <a href="https://zendog.vercel.app/">Zendog-UI</a>, to provide informed assessments based on their names:
 
-- Alloy (Female): A versatile voice potentially appropriate for technical or instructional content like tutorials, educational material, or any material necessitating clarity and precision.
+- Alloy: A versatile voice potentially appropriate for technical or instructional content like tutorials, educational material, or any material necessitating clarity and precision.
 
-- Echo (Male): Suited for storytelling, audiobooks, or content requiring a dramatic or narrative tone.
+- Echo: Suited for storytelling, audiobooks, or content requiring a dramatic or narrative tone.
 
-- Fable (Male): Well-suited for children's stories, fantasy content, or any narrative demanding a playful or imaginative flair.
+- Fable: Well-suited for children's stories, fantasy content, or any narrative demanding a playful or imaginative flair.
 
-- Onyx (Male): Recommended for reading serious literature, delivering news content, or any material needing a serious or formal delivery.
+- Onyx: Recommended for reading serious literature, delivering news content, or any material needing a serious or formal delivery.
 
-- Nova (Female): Ideal for advertisements, motivational content, or materials requiring a positive and enthusiastic tone.
+- Nova: Ideal for advertisements, motivational content, or materials requiring a positive and enthusiastic tone.
 
-- Shimmer (Female): Appropriate for lifestyle content, podcasts, or any content necessitating an engaging, friendly, and welcoming delivery.
+- Shimmer: Appropriate for lifestyle content, podcasts, or any content necessitating an engaging, friendly, and welcoming delivery.
+  
 
 ## Contributing
 
