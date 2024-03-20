@@ -30,7 +30,7 @@ Install the project locally,`vs-code` `node.js` follow these steps:
 2. Navigate to the project directory.         `cd C:/PATH/TO/FOLDER/`
 3. Install dependencies with `npm install`.
 4. Start the development server with `npm run dev`.
-5. Open `http://localhost:3000` to view it in the browser. (firefox,brave,chrome).
+5. Open `http://localhost:3000` to view it in the browser. `firefox,brave,chrome`
 
 ## Usage
 
