@@ -128,11 +128,11 @@ export default function Home() {
   };
 
   return (
-    <Container bg={'gray.100'} maxW="container">
+    <Container bg={'black'} maxW="container">
       <Container centerContent p={4} maxW="container.md">
         <Flex direction="column" align="center" justify="center" minH="100vh" w="full">
           <Box
-            bg="white" // Assuming the card is white
+            bg="black" // Dark mode , use white if preffered
             borderRadius="lg" // Rounded corners
             boxShadow="lg" // Shadow effect
             p={6} // Padding inside the card
@@ -141,10 +141,10 @@ export default function Home() {
           >
             <VStack spacing={6} as="form" onSubmit={handleSubmit} width="full" maxW="md">
             <Box bg='black' w='100%' p={5} borderTopRadius="md" boxShadow="lg">
-  <Heading textAlign="center" color="white">Open-Audio TTS</Heading>
-  <Text fontSize="xs" color="gray.100" textAlign="center" mt={2}>Powered by OpenAI TTS </Text>
-  <Text fontSize="xs" color="gray.100" textAlign="center" mt={2} fontWeight={'700'}>
-        <a href="https://github.com/Justmalhar/open-audio" target="_blank" rel="noopener noreferrer" style={{ color: 'gray.100' }}>
+  <Heading textAlign="center" color="white">Zendog EVE</Heading>
+  <Text fontSize="xs" color="white" textAlign="center" mt={2}>Powered by OpenAI TTS </Text>
+  <Text fontSize="xs" color="white" textAlign="center" mt={2} fontWeight={'700'}>
+        <a href="https://github.com/Mulc1b3R" target="_blank" rel="noopener noreferrer" style={{ color: 'gray.100' }}>
           View on GitHub
         </a>
       </Text>
@@ -163,7 +163,7 @@ export default function Home() {
                     value={apiKeyInput}
                     onChange={(e) => setApiKey(e.target.value)}
                     variant="outline"
-                    borderColor="black"
+                    borderColor="white"
                   />
                 </FormControl>
 
@@ -198,7 +198,7 @@ export default function Home() {
                   onChange={handleInputChange}
                   resize="vertical"
                   maxLength={4096}
-                  borderColor="black"
+                  borderColor="white"
                 />
                 <Box textAlign="right" fontSize="sm">
                   {inputText.length} / 4096
@@ -214,7 +214,7 @@ export default function Home() {
                     onChange={(e) => setVoice(e.target.value)}
                     variant="outline"
                     placeholder="Select voice"
-                    borderColor="black"
+                    borderColor="white"
                     focusBorderColor="black"
                     colorScheme="blackAlpha"
                     _hover={{ borderColor: 'gray.400' }} // Optional: style for hover state
@@ -262,8 +262,8 @@ export default function Home() {
 
               <Button
                 size="lg"
-                bg='black'
-                color={'white'}
+                bg='white'
+                color={'black'}
                 colorScheme='black'
                 borderColor="black"
                 type='submit'
