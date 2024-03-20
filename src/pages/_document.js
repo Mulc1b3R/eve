@@ -9,21 +9,21 @@ export default function Document() {
         
         
         {/* Favicon */}
-        <link rel="icon" type="image/ico" sizes="16x16" href="/favicon.ico" />
+        <link rel="icon" type="image/ico" sizes="16x16" href="./public/mulciber.ico" />
         
         {/* Meta Tags for SEO */}
         <meta name="description" content="An OpenAI-powered Text-to-Speech tool." />
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.openaudio.ai/" />
+        <meta property="og:url" content="https://eve-red.vercel.app/" />
         <meta property="og:title" content="Zendog EVE" />
         <meta property="og:description" content="An OpenAI-powered Text-to-Speech tool." />
         <meta property="og:image" content="https://www.openaudio.ai/og-image.svg" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://www.openaudio.ai/" />
+        <meta property="twitter:url" content="https://eve-red.vercel.app/" />
         <meta property="twitter:title" content="Zendog EVE" />
         <meta property="twitter:description" content="An OpenAI-powered Text-to-Speech tool." />
         <meta property="twitter:image" content="https://www.openaudio.ai/og-image.svg" />
