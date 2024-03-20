@@ -101,7 +101,6 @@ As the documentation lacks specific descriptions for each voice, I consulted Cha
 
 ## Contributing
 
-Credits:mojo,zen,mulciber,Justmalhar.
 Contributions are welcome! If you have a suggestion or an issue, please use the [issues](#) page to let me know.
 
 ## License.
@@ -113,6 +112,7 @@ This project is licensed under the Apache 2.0 License.
 - Thanks to OpenAI for providing the text-to-speech API.
 - Chakra UI for the beautiful component library.
 - <a target="_blank" href="https://icons8.com/icon/PgPOu9C2G4Dq/speech-to-text">Speech To Text</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- Credits:mojo, zen, mulciber, Justmalhar.
 
 ## Deploy on Vercel
 
