@@ -41,7 +41,7 @@ To utilize Zendog-Eve, follow these steps:
 # Code.
 
 Here is the original code that i used in the developement of Zendog-eve :
-'''
+```
 const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
@@ -79,7 +79,7 @@ async function main() {
 }
 
 main();
-'''
+```
 
 
 
