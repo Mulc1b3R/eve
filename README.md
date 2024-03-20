@@ -9,7 +9,7 @@ Zendog Eve is a web app enabling users to convert text into natural-sounding spe
 
 Powered by OpenAI's text-to-speech model, `tts-1`, the app has an intuitive user interface built with Chakra UI, providing a seamless experience for generating and downloading speech audio files:
 
-.mp3
+ `.mp3`
 
 Eve is an Electronic voice emulator.
 
