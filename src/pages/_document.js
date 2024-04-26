@@ -39,15 +39,13 @@ export default function Document() {
         <NextScript />
         <Analytics />
         
-metamask address ; 0x63673528404C9B9394d4Ec6FA037ED825c8b0faa
+  metamask address ; 0x63673528404C9B9394d4Ec6FA037ED825c8b0faa
   
   Copyright © 2023 Psico Communications and Blockchain Development.
   
   
   
- Licensed under the Apache License, Version 2.0 (the "License");<br>
-you may not use this file except in compliance with the License.<br>
-You may obtain a copy of the License at<br>
+ Licensed under the Apache License, Version 2.0 
 
       </body>
     </Html>
