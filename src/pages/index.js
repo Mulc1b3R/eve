@@ -132,7 +132,7 @@ export default function Home() {
       <Container centerContent p={4} maxW="container.md">
         <Flex direction="column" align="center" justify="center" minH="100vh" w="full">
           <Box
-            bg="black" // Dark mode , use white if preffered
+            bg="white" // Dark mode , use white if preffered
             borderRadius="lg" // Rounded corners
             boxShadow="lg" // Shadow effect
             p={6} // Padding inside the card
