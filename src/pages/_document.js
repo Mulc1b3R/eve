@@ -46,6 +46,7 @@ export default function Document() {
   
   
  Licensed under the Apache License, Version 2.0 
+    openai api-key rquired.
 
       </body>
     </Html>
